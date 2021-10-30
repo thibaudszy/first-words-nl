@@ -1,0 +1,702 @@
+[
+  {
+    "Nl-NL": "als",
+    "En-US": "as",
+    "En-US wrong1": "the",
+    "En-US wrong2": "high",
+    "En-US wrong3": "ask"
+  },
+  {
+    "Nl-NL": "I",
+    "En-US": "I",
+    "En-US wrong1": "at",
+    "En-US wrong2": "from",
+    "En-US wrong3": "light"
+  },
+  {
+    "Nl-NL": "zijn",
+    "En-US": "his",
+    "En-US wrong1": "air",
+    "En-US wrong2": "does",
+    "En-US wrong3": "earth"
+  },
+  {
+    "Nl-NL": "dat",
+    "En-US": "that",
+    "En-US wrong1": "point",
+    "En-US wrong2": "follow",
+    "En-US wrong3": "or"
+  },
+  {
+    "Nl-NL": "hij",
+    "En-US": "he",
+    "En-US wrong1": "follow",
+    "En-US wrong2": "near",
+    "En-US wrong3": "light"
+  },
+  {
+    "Nl-NL": "was",
+    "En-US": "was",
+    "En-US wrong1": "tell",
+    "En-US wrong2": "you",
+    "En-US wrong3": "hot"
+  },
+  {
+    "Nl-NL": "voor",
+    "En-US": "for",
+    "En-US wrong1": "small",
+    "En-US wrong2": "large",
+    "En-US wrong3": "with"
+  },
+  {
+    "Nl-NL": "op",
+    "En-US": "on",
+    "En-US wrong1": "want",
+    "En-US wrong2": "said",
+    "En-US wrong3": "which"
+  },
+  {
+    "Nl-NL": "zijn",
+    "En-US": "are",
+    "En-US wrong1": "out",
+    "En-US wrong2": "they",
+    "En-US wrong3": "and"
+  },
+  {
+    "Nl-NL": "met",
+    "En-US": "with",
+    "En-US wrong1": "follow",
+    "En-US wrong2": "can",
+    "En-US wrong3": "what"
+  },
+  {
+    "Nl-NL": "ze",
+    "En-US": "they",
+    "En-US wrong1": "tell",
+    "En-US wrong2": "off",
+    "En-US wrong3": "if"
+  },
+  {
+    "Nl-NL": "zijn",
+    "En-US": "be",
+    "En-US wrong1": "play",
+    "En-US wrong2": "self",
+    "En-US wrong3": "light"
+  },
+  {
+    "Nl-NL": "bij",
+    "En-US": "at",
+    "En-US wrong1": "spell",
+    "En-US wrong2": "from",
+    "En-US wrong3": "well"
+  },
+  {
+    "Nl-NL": "een",
+    "En-US": "one",
+    "En-US wrong1": "read",
+    "En-US wrong2": "point",
+    "En-US wrong3": "small"
+  },
+  {
+    "Nl-NL": "hebben",
+    "En-US": "have",
+    "En-US wrong1": "here",
+    "En-US wrong2": "home",
+    "En-US wrong3": "out"
+  },
+  {
+    "Nl-NL": "deze",
+    "En-US": "this",
+    "En-US wrong1": "or",
+    "En-US wrong2": "land",
+    "En-US wrong3": "the"
+  },
+  {
+    "Nl-NL": "van",
+    "En-US": "from",
+    "En-US wrong1": "off",
+    "En-US wrong2": "us",
+    "En-US wrong3": "again"
+  },
+  {
+    "Nl-NL": "door",
+    "En-US": "by",
+    "En-US wrong1": "their",
+    "En-US wrong2": "high",
+    "En-US wrong3": "that"
+  },
+  {
+    "Nl-NL": "heet",
+    "En-US": "hot",
+    "En-US wrong1": "ask",
+    "En-US wrong2": "each",
+    "En-US wrong3": "world"
+  },
+  {
+    "Nl-NL": "woord",
+    "En-US": "word",
+    "En-US wrong1": "one",
+    "En-US wrong2": "off",
+    "En-US wrong3": "must"
+  },
+  {
+    "Nl-NL": "maar",
+    "En-US": "but",
+    "En-US wrong1": "be",
+    "En-US wrong2": "do",
+    "En-US wrong3": "in"
+  },
+  {
+    "Nl-NL": "wat",
+    "En-US": "what",
+    "En-US wrong1": "that",
+    "En-US wrong2": "hand",
+    "En-US wrong3": "will"
+  },
+  {
+    "Nl-NL": "sommige",
+    "En-US": "some",
+    "En-US wrong1": "of",
+    "En-US wrong2": "read",
+    "En-US wrong3": "earth"
+  },
+  {
+    "Nl-NL": "is",
+    "En-US": "is",
+    "En-US wrong1": "be",
+    "En-US wrong2": "land",
+    "En-US wrong3": "for"
+  },
+  {
+    "Nl-NL": "het",
+    "En-US": "it",
+    "En-US wrong1": "light",
+    "En-US wrong2": "was",
+    "En-US wrong3": "animal"
+  },
+  {
+    "Nl-NL": "u",
+    "En-US": "you",
+    "En-US wrong1": "three",
+    "En-US wrong2": "you",
+    "En-US wrong3": "to"
+  },
+  {
+    "Nl-NL": "of",
+    "En-US": "or",
+    "En-US wrong1": "I",
+    "En-US wrong2": "small",
+    "En-US wrong3": "are"
+  },
+  {
+    "Nl-NL": "had",
+    "En-US": "had",
+    "En-US wrong1": "each",
+    "En-US wrong2": "the",
+    "En-US wrong3": "us"
+  },
+  {
+    "Nl-NL": "de",
+    "En-US": "the",
+    "En-US wrong1": "it",
+    "En-US wrong2": "act",
+    "En-US wrong3": "act"
+  },
+  {
+    "Nl-NL": "van",
+    "En-US": "of",
+    "En-US wrong1": "if",
+    "En-US wrong2": "here",
+    "En-US wrong3": "time"
+  },
+  {
+    "Nl-NL": "aan",
+    "En-US": "to",
+    "En-US wrong1": "kind",
+    "En-US wrong2": "us",
+    "En-US wrong3": "which"
+  },
+  {
+    "Nl-NL": "en",
+    "En-US": "and",
+    "En-US wrong1": "for",
+    "En-US wrong2": "do",
+    "En-US wrong3": "add"
+  },
+  {
+    "Nl-NL": "een",
+    "En-US": "a",
+    "En-US wrong1": "his",
+    "En-US wrong2": "build",
+    "En-US wrong3": "set"
+  },
+  {
+    "Nl-NL": "in",
+    "En-US": "in",
+    "En-US wrong1": "by",
+    "En-US wrong2": "near",
+    "En-US wrong3": "to"
+  },
+  {
+    "Nl-NL": "we",
+    "En-US": "we",
+    "En-US wrong1": "spell",
+    "En-US wrong2": "set",
+    "En-US wrong3": "must"
+  },
+  {
+    "Nl-NL": "kan",
+    "En-US": "can",
+    "En-US wrong1": "play",
+    "En-US wrong2": "animal",
+    "En-US wrong3": "follow"
+  },
+  {
+    "Nl-NL": "uit",
+    "En-US": "out",
+    "En-US wrong1": "end",
+    "En-US wrong2": "world",
+    "En-US wrong3": "word"
+  },
+  {
+    "Nl-NL": "andere",
+    "En-US": "other",
+    "En-US wrong1": "have",
+    "En-US wrong2": "with",
+    "En-US wrong3": "went"
+  },
+  {
+    "Nl-NL": "waren",
+    "En-US": "were",
+    "En-US wrong1": "can",
+    "En-US wrong2": "a",
+    "En-US wrong3": "but"
+  },
+  {
+    "Nl-NL": "die",
+    "En-US": "which",
+    "En-US wrong1": "does",
+    "En-US wrong2": "build",
+    "En-US wrong3": "high"
+  },
+  {
+    "Nl-NL": "doen",
+    "En-US": "do",
+    "En-US wrong1": "on",
+    "En-US wrong2": "that",
+    "En-US wrong3": "with"
+  },
+  {
+    "Nl-NL": "hun",
+    "En-US": "their",
+    "En-US wrong1": "play",
+    "En-US wrong2": "air",
+    "En-US wrong3": "out"
+  },
+  {
+    "Nl-NL": "tijd",
+    "En-US": "time",
+    "En-US wrong1": "will",
+    "En-US wrong2": "ask",
+    "En-US wrong3": "have"
+  },
+  {
+    "Nl-NL": "indien",
+    "En-US": "if",
+    "En-US wrong1": "off",
+    "En-US wrong2": "off",
+    "En-US wrong3": "they"
+  },
+  {
+    "Nl-NL": "zal",
+    "En-US": "will",
+    "En-US wrong1": "but",
+    "En-US wrong2": "with",
+    "En-US wrong3": "on"
+  },
+  {
+    "Nl-NL": "hoe",
+    "En-US": "how",
+    "En-US wrong1": "we",
+    "En-US wrong2": "such",
+    "En-US wrong3": "point"
+  },
+  {
+    "Nl-NL": "zei",
+    "En-US": "said",
+    "En-US wrong1": "small",
+    "En-US wrong2": "at",
+    "En-US wrong3": "point"
+  },
+  {
+    "Nl-NL": "een",
+    "En-US": "an",
+    "En-US wrong1": "with",
+    "En-US wrong2": "a",
+    "En-US wrong3": "went"
+  },
+  {
+    "Nl-NL": "elk",
+    "En-US": "each",
+    "En-US wrong1": "in",
+    "En-US wrong2": "I",
+    "En-US wrong3": "out"
+  },
+  {
+    "Nl-NL": "vertellen",
+    "En-US": "tell",
+    "En-US wrong1": "that",
+    "En-US wrong2": "an",
+    "En-US wrong3": "will"
+  },
+  {
+    "Nl-NL": "doet",
+    "En-US": "does",
+    "En-US wrong1": "from",
+    "En-US wrong2": "also",
+    "En-US wrong3": "if"
+  },
+  {
+    "Nl-NL": "set",
+    "En-US": "set",
+    "En-US wrong1": "set",
+    "En-US wrong2": "time",
+    "En-US wrong3": "do"
+  },
+  {
+    "Nl-NL": "drie",
+    "En-US": "three",
+    "En-US wrong1": "hand",
+    "En-US wrong2": "here",
+    "En-US wrong3": "you"
+  },
+  {
+    "Nl-NL": "willen",
+    "En-US": "want",
+    "En-US wrong1": "went",
+    "En-US wrong2": "it",
+    "En-US wrong3": "how"
+  },
+  {
+    "Nl-NL": "lucht",
+    "En-US": "air",
+    "En-US wrong1": "men",
+    "En-US wrong2": "do",
+    "En-US wrong3": "have"
+  },
+  {
+    "Nl-NL": "goed",
+    "En-US": "well",
+    "En-US wrong1": "they",
+    "En-US wrong2": "on",
+    "En-US wrong3": "here"
+  },
+  {
+    "Nl-NL": "ook",
+    "En-US": "also",
+    "En-US wrong1": "word",
+    "En-US wrong2": "and",
+    "En-US wrong3": "word"
+  },
+  {
+    "Nl-NL": "spelen",
+    "En-US": "play",
+    "En-US wrong1": "big",
+    "En-US wrong2": "self",
+    "En-US wrong3": "I"
+  },
+  {
+    "Nl-NL": "klein",
+    "En-US": "small",
+    "En-US wrong1": "are",
+    "En-US wrong2": "light",
+    "En-US wrong3": "that"
+  },
+  {
+    "Nl-NL": "end",
+    "En-US": "end",
+    "En-US wrong1": "I",
+    "En-US wrong2": "had",
+    "En-US wrong3": "air"
+  },
+  {
+    "Nl-NL": "zetten",
+    "En-US": "put",
+    "En-US wrong1": "even",
+    "En-US wrong2": "went",
+    "En-US wrong3": "read"
+  },
+  {
+    "Nl-NL": "thuis",
+    "En-US": "home",
+    "En-US wrong1": "went",
+    "En-US wrong2": "to",
+    "En-US wrong3": "well"
+  },
+  {
+    "Nl-NL": "lezen",
+    "En-US": "read",
+    "En-US wrong1": "do",
+    "En-US wrong2": "change",
+    "En-US wrong3": "end"
+  },
+  {
+    "Nl-NL": "de hand",
+    "En-US": "hand",
+    "En-US wrong1": "to",
+    "En-US wrong2": "tell",
+    "En-US wrong3": "house"
+  },
+  {
+    "Nl-NL": "poort",
+    "En-US": "port",
+    "En-US wrong1": "from",
+    "En-US wrong2": "each",
+    "En-US wrong3": "near"
+  },
+  {
+    "Nl-NL": "grote",
+    "En-US": "large",
+    "En-US wrong1": "house",
+    "En-US wrong2": "that",
+    "En-US wrong3": "at"
+  },
+  {
+    "Nl-NL": "spell",
+    "En-US": "spell",
+    "En-US wrong1": "father",
+    "En-US wrong2": "end",
+    "En-US wrong3": "will"
+  },
+  {
+    "Nl-NL": "toevoegen",
+    "En-US": "add",
+    "En-US wrong1": "their",
+    "En-US wrong2": "us",
+    "En-US wrong3": "add"
+  },
+  {
+    "Nl-NL": "zelfs",
+    "En-US": "even",
+    "En-US wrong1": "time",
+    "En-US wrong2": "be",
+    "En-US wrong3": "why"
+  },
+  {
+    "Nl-NL": "land",
+    "En-US": "land",
+    "En-US wrong1": "self",
+    "En-US wrong2": "one",
+    "En-US wrong3": "why"
+  },
+  {
+    "Nl-NL": "hier",
+    "En-US": "here",
+    "En-US wrong1": "are",
+    "En-US wrong2": "act",
+    "En-US wrong3": "change"
+  },
+  {
+    "Nl-NL": "moet",
+    "En-US": "must",
+    "En-US wrong1": "big",
+    "En-US wrong2": "well",
+    "En-US wrong3": "act"
+  },
+  {
+    "Nl-NL": "grote",
+    "En-US": "big",
+    "En-US wrong1": "had",
+    "En-US wrong2": "ask",
+    "En-US wrong3": "animal"
+  },
+  {
+    "Nl-NL": "hoog",
+    "En-US": "high",
+    "En-US wrong1": "if",
+    "En-US wrong2": "by",
+    "En-US wrong3": "world"
+  },
+  {
+    "Nl-NL": "dergelijke",
+    "En-US": "such",
+    "En-US wrong1": "light",
+    "En-US wrong2": "as",
+    "En-US wrong3": "even"
+  },
+  {
+    "Nl-NL": "volgen",
+    "En-US": "follow",
+    "En-US wrong1": "port",
+    "En-US wrong2": "were",
+    "En-US wrong3": "must"
+  },
+  {
+    "Nl-NL": "act",
+    "En-US": "act",
+    "En-US wrong1": "this",
+    "En-US wrong2": "air",
+    "En-US wrong3": "were"
+  },
+  {
+    "Nl-NL": "waarom",
+    "En-US": "why",
+    "En-US wrong1": "build",
+    "En-US wrong2": "high",
+    "En-US wrong3": "build"
+  },
+  {
+    "Nl-NL": "vragen",
+    "En-US": "ask",
+    "En-US wrong1": "add",
+    "En-US wrong2": "other",
+    "En-US wrong3": "do"
+  },
+  {
+    "Nl-NL": "mannen",
+    "En-US": "men",
+    "En-US wrong1": "world",
+    "En-US wrong2": "do",
+    "En-US wrong3": "change"
+  },
+  {
+    "Nl-NL": "verandering",
+    "En-US": "change",
+    "En-US wrong1": "an",
+    "En-US wrong2": "do",
+    "En-US wrong3": "went"
+  },
+  {
+    "Nl-NL": "ging",
+    "En-US": "went",
+    "En-US wrong1": "to",
+    "En-US wrong2": "can",
+    "En-US wrong3": "I"
+  },
+  {
+    "Nl-NL": "licht",
+    "En-US": "light",
+    "En-US wrong1": "a",
+    "En-US wrong2": "one",
+    "En-US wrong3": "put"
+  },
+  {
+    "Nl-NL": "soort",
+    "En-US": "kind",
+    "En-US wrong1": "was",
+    "En-US wrong2": "it",
+    "En-US wrong3": "want"
+  },
+  {
+    "Nl-NL": "uitgeschakeld",
+    "En-US": "off",
+    "En-US wrong1": "that",
+    "En-US wrong2": "does",
+    "En-US wrong3": "why"
+  },
+  {
+    "Nl-NL": "nodig hebben",
+    "En-US": "need",
+    "En-US wrong1": "each",
+    "En-US wrong2": "small",
+    "En-US wrong3": "again"
+  },
+  {
+    "Nl-NL": "huis",
+    "En-US": "house",
+    "En-US wrong1": "some",
+    "En-US wrong2": "must",
+    "En-US wrong3": "I"
+  },
+  {
+    "Nl-NL": "afbeelding",
+    "En-US": "picture",
+    "En-US wrong1": "hand",
+    "En-US wrong2": "which",
+    "En-US wrong3": "at"
+  },
+  {
+    "Nl-NL": "proberen",
+    "En-US": "try",
+    "En-US wrong1": "are",
+    "En-US wrong2": "here",
+    "En-US wrong3": "why"
+  },
+  {
+    "Nl-NL": "ons",
+    "En-US": "us",
+    "En-US wrong1": "other",
+    "En-US wrong2": "hand",
+    "En-US wrong3": "for"
+  },
+  {
+    "Nl-NL": "weer",
+    "En-US": "again",
+    "En-US wrong1": "with",
+    "En-US wrong2": "ask",
+    "En-US wrong3": "can"
+  },
+  {
+    "Nl-NL": "dier",
+    "En-US": "animal",
+    "En-US wrong1": "of",
+    "En-US wrong2": "hot",
+    "En-US wrong3": "have"
+  },
+  {
+    "Nl-NL": "punt",
+    "En-US": "point",
+    "En-US wrong1": "read",
+    "En-US wrong2": "build",
+    "En-US wrong3": "put"
+  },
+  {
+    "Nl-NL": "moeder",
+    "En-US": "mother",
+    "En-US wrong1": "that",
+    "En-US wrong2": "do",
+    "En-US wrong3": "what"
+  },
+  {
+    "Nl-NL": "wereld",
+    "En-US": "world",
+    "En-US wrong1": "for",
+    "En-US wrong2": "this",
+    "En-US wrong3": "will"
+  },
+  {
+    "Nl-NL": "dichtbij",
+    "En-US": "near",
+    "En-US wrong1": "hand",
+    "En-US wrong2": "us",
+    "En-US wrong3": "each"
+  },
+  {
+    "Nl-NL": "bouwen",
+    "En-US": "build",
+    "En-US wrong1": "air",
+    "En-US wrong2": "act",
+    "En-US wrong3": "one"
+  },
+  {
+    "Nl-NL": "zelf",
+    "En-US": "self",
+    "En-US wrong1": "do",
+    "En-US wrong2": "you",
+    "En-US wrong3": "this"
+  },
+  {
+    "Nl-NL": "aarde",
+    "En-US": "earth",
+    "En-US wrong1": "this",
+    "En-US wrong2": "air",
+    "En-US wrong3": "end"
+  },
+  {
+    "Nl-NL": "vader",
+    "En-US": "father",
+    "En-US wrong1": "light",
+    "En-US wrong2": "tell",
+    "En-US wrong3": "what"
+  }
+]
