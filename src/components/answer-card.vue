@@ -1,5 +1,5 @@
 <template>
-  <button class="p-3 border-black text-center border-2">{{ possibleAnswer }}</button>
+  <button class="p-3 rounded border-black text-center border-2">{{ possibleAnswer }}</button>
 </template>
 
 <script>

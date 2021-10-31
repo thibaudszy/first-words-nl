@@ -18,8 +18,8 @@ let quizzKey = ref(1234);
 </script>
 
 <template>
-  <div class="h-screen w-screen">
-    <quizz :key="quizzKey" @refresh="quizzKey++" />
-    <button class="bottom-2 absolute p-5 w-full border border-black" @click="resetQuizz">Reset quizz</button>
+  <div class="h-screen w-screen flex flex-col items-center">
+    <quizz :key="quizzKey" @refresh="quizzKey++" class="flex-1" />
+    <button class="mb-3 border border-red-500 text-red-500 p-4 rounded" @click="resetQuizz">Reset quizz</button>
   </div>
 </template>

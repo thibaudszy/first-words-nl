@@ -1,7 +1,7 @@
 import {h} from 'vue';
 
 const QuestionCard = (props) => {
-  return h('div', {class: 'font-semibold border-4 border-yellow-700 p-4 text-center'}, props.wordToGuess);
+  return h('div', {class: 'rounded font-semibold border-4 border-yellow-700 p-4 text-center'}, props.wordToGuess);
 };
 QuestionCard.props = {
   wordToGuess: {

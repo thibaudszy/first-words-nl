@@ -39,7 +39,7 @@ let {correct, wrong} = toRefs(state);
 </script>
 
 <template>
-  <div class="flex flex-col w-full h-full justify-center items-center border-2">
+  <div class="flex flex-col w-full justify-center items-center">
     <QuestionCard :wordToGuess="capitalize(question)" class="m-3 w-80" />
     <AnswerCard
       v-for="(ans, index) of shuffledAnswers"
